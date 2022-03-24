@@ -4,7 +4,7 @@
    🌐 email-signature ✏️
   </h1>
 
-  <h4>Written using plain HTML with images hosted on <a href="https://valure.io">valure.io</a>.</h4>
+  <h4>Written using plain HTML with images hosted on <a href="https://0xcadams.com">0xcadams.com</a>.</h4>
 
 </div>
 
